@@ -15,3 +15,7 @@ There are currently 3 developers working on this project:
 * [Jan Fischlmayr](https://github.com/jfischlmayr "GitHub Profile")
 * [David Kraus](https://github.com/DalexKraus "GitHub Profile")
 
+## Notes
+Please keep in mind that this game is 'just' a spare time project after all.
+We will try to put as much time into this project as possible,
+but as we are all still attending school, it may turn out rather difficult for us to make progress.
